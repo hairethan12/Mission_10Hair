@@ -7,5 +7,5 @@ export type bowler = {
   bowlerCity: string;
   bowlerState: string;
   bowlerZip: string;
-  bowlerPhoneNumebr: string;
+  bowlerPhoneNumber: string;
 };
